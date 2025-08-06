@@ -1,8 +1,8 @@
 # Me chammo João Vitor Jaques! #
 
 - Atuamente sou estudante de Engenharia de Software da Universidade Estadual do Pará
-- Na faculdade tenho projeto de pesquisa, projeto de extensão e projetos à parte com professores e alunos, dos quais alguns compartilho os repositórios aqui
-- Porém, aqui compartilho e versiono projetos pessoais, sinta-se à vontade de entrar em contato comigo para qualquer coisa, eu ficaria feliz com isso!
+- Na faculdade tenho projeto de pesquisa, projeto de extensão e projetos à parte com professores e alunos amigos, dos quais alguns compartilho os repositórios aqui
+- Porém, aqui compartilho e versiono projetos pessoais, sinta-se à vontade para entrar em contato comigo para qualquer coisa, eu ficaria feliz com isso!
 <br></br>
 
 
@@ -17,6 +17,12 @@ css
 java
 -->  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" heigth="40"/><!--
 spring
+-->  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="40" height="40" /><!--
+hibernate
+-->  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" width="40" height="40"/><!--
+tomcat
+-->  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="40" height="40"/><!--
+maven
 -->  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" heigth="40"/><!--
 python
 -->  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" heigth="40"/><!--
