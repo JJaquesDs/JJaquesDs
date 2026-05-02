@@ -1,4 +1,4 @@
-# Me chammo João Vitor Jaques! #
+# Me chamo João Vitor Jaques! #
 
 - Atuamente sou estudante de Engenharia de Software da Universidade Estadual do Pará
 - Na faculdade tenho projeto de pesquisa, projeto de extensão e projetos à parte com professores e alunos amigos, dos quais alguns compartilho os repositórios aqui
